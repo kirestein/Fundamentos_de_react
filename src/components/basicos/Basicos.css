@@ -1,0 +1,15 @@
+.Aleatorio input {
+  border-radius: 1rem;
+  text-align: center;
+  margin: 2rem;
+  border: 1px solid #ddd;
+  height: 2rem;
+  width: 3rem;
+}
+
+.Aleatorio button {
+  border: 0;
+  width: 6rem;
+  height: 2.5rem;
+  border-radius: 1rem;
+}

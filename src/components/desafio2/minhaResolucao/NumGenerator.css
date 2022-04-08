@@ -1,0 +1,11 @@
+.Generator button {
+  border-radius: 1rem;
+  height: 4rem;
+  width: 7rem;
+  border: none;
+  background-color: #380864;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 2rem;
+}
